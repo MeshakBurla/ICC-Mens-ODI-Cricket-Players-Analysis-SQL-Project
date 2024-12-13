@@ -1,0 +1,51 @@
+PLAYER_ID,PLAYER_NAME,TEAM_NAME,MATCH_PLAYED,AGE,TOTAL_RUNS,TOTAL_WICKETS,BEST_WICKETS,MAIDEN_OVERS,ECONOMY_RATE,STRIKE_RATE,CENTURIES,FIFTYS,BEST_SCORE,ODI_RANK,PLAYER_ROLE,DOUBLE_CENTURIES
+1,Sachin Tendulkar,India,463,52,18426,154,5,199,4.99,86.23,49,96,200,0,Batsman,1
+2,Virat kohli,India,286,37,13000,4,1,0,6.22,93.63,47,66,183,2,Batsman,0
+3,Rohit Sharma ,India,260,38,10000,8,2,1,5.19,90.03,30,50,264,6,Batsman,3
+4,MS Dhoni ,India,350,44,10773,1,1,0,5,87.56,10,73,183,0,wk,0
+5,Shubman Gill ,India,35,26,2000,0,0,0,0,105.03,6,11,208,3,Batsman,1
+6,Jasprit Bumrah ,India,75,31,200,134,6,92,4.63,65.45,0,0,14,4,Bowler,0
+7,Steve Smith ,Australia,150,36,5000,28,3,8,5.36,88.13,12,26,164,14,Batsman,0
+8,Pat Cummins ,Australia,80,32,300,127,5,54,5.28,79.65,0,0,36,9,Bowler,0
+9,David Warner ,Australia,150,39,6000,4,1,0,6.13,95.64,20,27,179,8,Batsman,0
+10,Glenn Maxwell ,Australia,150,37,3700,63,4,8,5.61,125.42,2,23,201,7,All Rounder,1
+11,Travis Head ,Australia,75,31,2000,5,2,0,5.79,97.64,5,19,152,12,Batsman,0
+12,Joe Root ,England,160,34,6000,26,3,6,5.89,87.45,16,36,133,13,Batsman,0
+13,Ben Stokes ,England,100,34,3000,74,5,14,6.02,96.23,4,21,182,10,All Rounder,0
+14,Jos Buttler ,England,160,35,4000,0,0,0,0,121.32,11,25,162,5,wk,0
+15,Harry Brook ,England,20,26,400,0,0,0,0,92.46,0,2,80,28,Batsman,0
+16,Jofra Archer ,England,30,29,50,42,6,12,5.25,70.33,0,0,27,15,Bowler,0
+17,Kane Williamson ,New Zealand,160,35,6000,37,4,10,5.37,81.52,13,42,148,20,Batsman,0
+18,Trent Boult ,New Zealand,100,36,200,198,7,140,4.9,42.62,0,0,21,1,Bowler,0
+19,Devon Conway ,New Zealand,35,34,1500,0,0,0,0,89.71,5,10,152,18,Batsman,0
+20,Tim Southee ,New Zealand,150,36,800,210,7,165,5.45,52.13,0,0,28,21,Bowler,0
+21,Rachin Ravindra ,New Zealand,20,26,500,9,3,2,5.15,88.67,0,2,123,33,All Rounder,0
+22,Babar Azam ,Pakistan,120,31,5700,0,0,0,0,89.25,19,31,158,1,Batsman,0
+23,Shaheen Afridi ,Pakistan,50,25,100,110,6,58,5.24,65.03,0,0,22,5,Bowler,0
+24,Mohammad Rizwan ,Pakistan,70,33,2000,0,0,0,0,84.33,0,5,115,16,wk,0
+25,Fakhar Zaman ,Pakistan,75,35,3500,1,1,0,4.33,95.23,10,15,210,11,Batsman,1
+26,Haris Rauf ,Pakistan,40,32,50,74,5,18,5.43,58.35,0,0,15,17,Bowler,0
+27,Shakib Al Hasan ,Bangladesh,240,38,7300,307,5,193,4.47,82.85,9,55,134,2,All Rounder,0
+28,Litton Das ,Bangladesh,75,31,2500,0,0,0,0,85.56,3,14,176,25,Batsman,0
+29,Mushfiqur Rahim ,Bangladesh,250,38,7500,0,0,0,0,77.97,9,42,144,24,wk,0
+30,Mehidy Hasan Miraz ,Bangladesh,100,28,1200,99,4,73,4.35,78.43,2,15,100,6,All Rounder,0
+31,Rashid Khan ,Afghanistan,100,27,1000,187,7,63,4.18,92.21,0,3,60,9,Bowler,0
+32,Rahmanullah Gurbaz ,Afghanistan,30,24,1200,0,0,0,0,88.46,6,7,151,19,wk,0
+33,Mujeeb Ur Rahman ,Afghanistan,70,24,100,88,5,58,4.18,50.33,0,0,15,23,Bowler,0
+34,Chris Gayle ,West Indies,300,46,10480,167,5,83,4.76,87.19,25,54,215,0,Batsman,1
+35,Nicholas Pooran ,West Indies,70,30,1800,0,0,0,0,98.11,4,12,118,30,wk,0
+36,Shai Hope ,West Indies,120,32,5300,0,0,0,0,76.55,15,44,170,14,Batsman,0
+37,Jason Holder ,West Indies,150,34,2500,157,5,112,5.55,95.47,1,12,99,18,All Rounder,0
+38,Aiden Markram ,South Africa,75,31,2200,15,2,5,5.1,92.35,3,15,102,22,All Rounder,0
+39,Quinton de Kock ,South Africa,150,32,6200,0,0,0,0,95.23,17,33,178,3,wk,0
+40,Kagiso Rabada ,South Africa,90,30,300,144,6,70,4.98,71.85,0,0,37,8,Bowler,0
+41,Temba Bavuma ,South Africa,40,35,1800,0,0,0,0,88.55,3,9,144,26,Batsman,0
+42,Heinrich Klaasen ,South Africa,50,34,2200,0,0,0,0,97.21,5,11,174,20,wk,0
+43,Angelo Mathews ,Sri Lanka,220,38,5900,120,6,65,4.6,82.17,3,40,139,29,All Rounder,0
+44,Charith Asalanka ,Sri Lanka,50,28,1800,12,2,4,5.47,84.13,2,16,108,32,All Rounder,0
+45,Wanindu Hasaranga ,Sri Lanka,50,28,1200,67,5,20,5.03,85.62,0,2,80,12,All Rounder,0
+46,Kusal Mendis ,Sri Lanka,120,30,3800,0,0,0,0,84.87,4,19,127,13,wk,0
+47,Suryakumar Yadav ,India,30,35,600,0,0,0,0,104.92,2,3,72,34,Batsman,0
+48,Ruturaj Gaikwad ,India,10,28,200,0,0,0,0,96.03,1,2,123,35,Batsman,0
+49,Mitchell Starc ,Australia,120,35,300,228,6,112,5.12,61.25,0,0,29,4,Bowler,0
+50,Adam Zampa ,Australia,80,33,200,142,6,58,5.45,54.92,0,0,17,7,Bowler,0
