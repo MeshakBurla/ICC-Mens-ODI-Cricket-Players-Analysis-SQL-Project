@@ -22,7 +22,7 @@ This project focuses on providing an extensive overview of cricket players who h
 
 ### 1.Database Setup
 
-•	**Database Creation**: The project starts by creating named `Mens_ICC_ODI_info`.
+•	**Database Creation**: The project starts by creating named `Mens_ICC_ODI_info2`.
 
 •	**Table Creation**: A table named `ODI_players_INFO2` is created to store the players data. The table structure includes
 Columns for Player_ID, Player_Name, Team_Name, Date_Of_Birth,Matches_Played,Runs_Scored,
