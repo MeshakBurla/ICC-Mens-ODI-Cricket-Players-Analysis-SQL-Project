@@ -53,7 +53,9 @@ DOUBLE_CENTURIES INT
  ### 2.Data Exploration
  
 •	**Players Record Count**: determine the total number of records in the dataset.
+
 •	**Players count**: Find out how many unique players in the dataset.
+
 •	**Best Score**: Identify best score player name in the dataset.
 
 
@@ -129,13 +131,16 @@ WHERE MATCH_PLAYED > 150;
 1.**Top performs in ODI format**: 
 •	Highest runs score in ODI format.
 •	Most wickets taken in each format.
+
 2.**consistancy metrics**:
 •	Players with the highest batting average or strike rate.
 •	Bowlers with the best bowling average or economy rates.
+
 3.**Record breakers**:
 •	Players with the highest individual runs scores in ODI matches.
 •	Who get 5 wickets or above taken wickets in ODI formats.
-  Reports
+
+ ## Reports:
 •	**Players summary**: A detailed  report summarizing  total matches,players total runs and cricket performance.
 
 •	**Trend analysis**: insight into runs score across the matches.
