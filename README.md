@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-**Project Title: ICC Cricket Players Analysis 
-**Level: Beginner
-**Database: Mens_ICC_ODI_info
+**Project Title**: ICC Cricket Players Analysis 
+**Level**: Beginner
+**Database**: Mens_ICC_ODI_info
 
 This project focuses on providing an extensive overview of cricket players who have represented their countries under the International Cricket Council (ICC). It aims to capture their career statistics, achievements, milestones, and contributions to the sport.
 
