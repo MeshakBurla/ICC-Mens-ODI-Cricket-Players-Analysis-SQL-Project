@@ -58,7 +58,18 @@ DOUBLE_CENTURIES INT
 
 •	**Best Score**: Identify best score player name in the dataset.
 
-### pending
+```SQL
+SELECT PLAYER_NAME,COUNT(DISTINCT BEST_SCORE) AS TOTAL_PLAYERS_RECORDS 
+FROM ODI_PLAYERS_INFO2
+GROUP BY PLAYER_NAME;
+
+SELECT PLAYER_NAME,COUNT(PLAYER_ID) AS TOTAL_PLAYERS
+FROM ODI_PLAYERS_INFO2
+GROUP BY PLAYER_NAME;
+
+SELECT PLAYER_NAME,MAX(TOTAL_RUNS) FROM ODI_PLAYERS_INFO2
+GROUP BY PLAYER_NAME ;
+```
 
 ### 3.Data Analysis & Findings
 The following SQL queries were developed to answer specific players questions:
