@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**Project Title**: ICC Cricket Players Analysis 
+**Project Title**: ICC Mens ODI Cricket Players Analysis 
 
 **Level**: Beginner
 
