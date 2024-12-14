@@ -151,10 +151,13 @@ WHERE MATCH_PLAYED > 150;
 The analysis of ICC cricket players highlights key performances, trends, and contributions across formats like Tests, ODIs, and T20s. It identifies top players, evaluates consistency, and explores team dynamics over time. These insights support data-driven decisions in player selection, strategy, and fan engagement. Expanding the study to include predictive analytics and domestic leagues offers opportunities for deeper exploration.
 
 **How to use**:
-1.clone the Repository: Clone this project repository from GitHub.
-2.Set Up the Database: Run the SQL scripts provided in the database_setup.sql file to create and populate the database.
-3.Run the Queries: Use the SQL queries provided in the analysis_queries.sql file to perform your analysis.
-4.Explore and Modify:Feel free to modify the queries to explore different aspect of the dataset or answer
+1.**clone the Repository**: Clone this project repository from GitHub.
+
+2.**Set Up the Database**: Run the SQL scripts provided in the database_setup.sql file to create and populate the database.
+
+3.**Run the Queries**: Use the SQL queries provided in the analysis_queries.sql file to perform your analysis.
+
+4.**Explore and Modify**:Feel free to modify the queries to explore different aspect of the dataset or answer
 Additional business questions.
 
 
