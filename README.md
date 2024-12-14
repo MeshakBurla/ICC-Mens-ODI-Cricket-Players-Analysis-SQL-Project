@@ -58,7 +58,7 @@ DOUBLE_CENTURIES INT
 
 •	**Best Score**: Identify best score player name in the dataset.
 
-
+### pending
 
 ### 3.Data Analysis & Findings
 The following SQL queries were developed to answer specific players questions:
